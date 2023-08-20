@@ -1,7 +1,7 @@
 {
   "ip": "f5.gamely.pro",
   "port": 35285,
-  "loader": "Loader.swf",
+  "loader": "https://github.com/Maksim9m1/assets-unrltanks/raw/main/Loader.swf",
   "library": "https://github.com/L1gxkt1ss/PTT-Resource/raw/main/library.swf",
   "resources": "https://github.com/L1gxkt1ss/PTT-Resource/raw/main/resources"
 }
